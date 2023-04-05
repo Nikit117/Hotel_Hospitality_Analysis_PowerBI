@@ -31,14 +31,14 @@ As a data analyst, you have been given sample data and a mock-up dashboard to co
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img src='resources/data_map.png' height="400">
 </p>
 
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+    <img src='resources/img.png' width="600">
 </p>
 
 
