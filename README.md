@@ -6,7 +6,7 @@ Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-ch
 
 Link to [Interactive Dashboard](https://1drv.ms/p/s!AtEjudc6cIjagcAWVwM9iUPXBYu1Sw)
 
-Link to [Presentation Video]()
+Link to [Presentation Video](https://www.linkedin.com/posts/activity-7049336402219565056-eYAR?utm_source=share&utm_medium=member_desktop)
 
 ## Problem statement
 
